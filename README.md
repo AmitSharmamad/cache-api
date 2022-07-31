@@ -7,12 +7,13 @@ Clone the project and update the properties in `.env` as per your needs.
 
 ## Get Started
 
+Pre-requisites: You should have node and atleast npm installed to proceed.
+
 Clone the project using `git clone https://github.com/AmitSharmamad/cache-api`
 
-and install the dependencies using
+Run the below script and follow the instructions
 
-`npm install`   or   `yarn install`
-
+`npm run setup`
 
 ## Configuration
 
