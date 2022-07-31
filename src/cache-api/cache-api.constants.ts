@@ -1,0 +1,1 @@
+export const CACHE_API_MODEL = 'CACHE_API_MODEL';
